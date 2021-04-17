@@ -1,0 +1,7 @@
+.button-wrapper {
+  display: flex;
+}
+
+.goal-item {
+  margin-bottom: 10px;
+}
